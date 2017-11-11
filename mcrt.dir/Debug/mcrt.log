@@ -1,0 +1,15 @@
+﻿cl : Command line warning D9002: ignoring unknown option '-g'
+  Camera.cpp
+F:\Monte-Carlo-Ray-Tracing-master\src\Camera.cpp(6): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Walls.cpp
+F:\Monte-Carlo-Ray-Tracing-master\src\Walls.cpp(102): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Monte-Carlo-Ray-Tracing-master\src\Walls.cpp(128): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+F:\Monte-Carlo-Ray-Tracing-master\src\main.cpp(75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Monte-Carlo-Ray-Tracing-master\src\main.cpp(76): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\Monte-Carlo-Ray-Tracing-master\src\main.cpp(79): warning C4309: 'initializing': truncation of constant value
+F:\Monte-Carlo-Ray-Tracing-master\src\main.cpp(82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Monte-Carlo-Ray-Tracing-master\src\main.cpp(83): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+f:\monte-carlo-ray-tracing-master\src\walls.cpp(147): warning C4715: 'Walls::GetNormal': not all control paths return a value
+  mcrt.vcxproj -> F:\Monte-Carlo-Ray-Tracing-master\Debug\mcrt.exe

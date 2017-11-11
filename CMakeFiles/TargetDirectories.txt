@@ -1,0 +1,3 @@
+F:/Monte-Carlo-Ray-Tracing-master/CMakeFiles/mcrt.dir
+F:/Monte-Carlo-Ray-Tracing-master/CMakeFiles/ALL_BUILD.dir
+F:/Monte-Carlo-Ray-Tracing-master/CMakeFiles/ZERO_CHECK.dir
